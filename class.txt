@@ -10,4 +10,15 @@ Silver
 Fuchsia
 Gray
 Brown
-Red
+Redcrimson
+orange
+blue
+cyan
+yellow
+charcoal
+khaki
+coral
+silver
+fuchsia
+purple 
+brown
